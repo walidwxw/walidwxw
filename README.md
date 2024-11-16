@@ -5,7 +5,7 @@
 - <b>Active Directory Home Lab</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SOC Lab project</b>
-
+  - [SOC Lab Report](https://github.com/walidwxw/walidwxw/blob/main/Rapport%20SOC.pdf)
 
 
 <h2>📺 Popular YouTube Videos</h2>
