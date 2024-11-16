@@ -4,6 +4,8 @@
 
 - <b>Active Directory Home Lab</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>SOC Lab project</b>
+
 
 
 <h2>📺 Popular YouTube Videos</h2>
