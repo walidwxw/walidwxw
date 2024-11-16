@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 - <b>SOC Lab project</b>
   - [SOC Lab Report](https://github.com/walidwxw/walidwxw/blob/main/Rapport%20SOC.pdf)
-
+- <b>Active Directory Home Lab</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 Popular YouTube Videos</h2>
 
